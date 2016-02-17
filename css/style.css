@@ -39,6 +39,10 @@ body {
     padding-right: 35px;
 }
 
+.top-menu li a:hover {
+    color: black !important;
+}
+
 /*.navbar-brand>img {
     display: inline !important;
 }*/
@@ -261,6 +265,7 @@ section h2 {
     text-align: center;
     margin: 0 auto;
 }
+
 
 
 /*FOR XS*/
