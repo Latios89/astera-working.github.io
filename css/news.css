@@ -6,7 +6,7 @@
     margin-bottom: 50px;
 }
 
-section a, a:hover {
+section a, section a:hover {
     color: white !important;
     text-decoration: none !important;
 }
