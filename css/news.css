@@ -1,0 +1,31 @@
+﻿body {
+    background-size: cover !important;
+}
+
+.wrapper_width h1 {
+    margin-bottom: 50px;
+}
+
+section a, a:hover {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+.news_text {
+    margin-top: 10px !important;
+    display: block !important;
+}
+
+.news_text_center {
+    text-align: center !important;
+    margin-top: 20px;
+}
+
+.news_list {
+    margin-left: 25px;
+}
+
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+   }
